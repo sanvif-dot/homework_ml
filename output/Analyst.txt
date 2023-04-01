@@ -1,0 +1,33 @@
+Cluster 0: Customers in this cluster have an average age of 42.7, 
+           an average income of 55.3, and an average spending score of 49.5. 
+           This cluster may represent customers who are middle-aged, 
+           have moderate incomes, and spend moderately.
+
+Cluster 1: Customers in this cluster have an average age of 41.1, 
+           an average income of 88.2, and an average spending score of 17.1. 
+           This cluster may represent customers who are relatively affluent, 
+           but who do not spend much.
+
+Cluster 2: Customers in this cluster have an average age of 45.2, 
+           an average income of 26.3, and an average spending score of 20.9.
+           This cluster may represent customers who are older, have low incomes, 
+           and do not spend much.
+
+Cluster 3: Customers in this cluster have an average age of 25.3, 
+           an average income of 25.7, and an average spending score of 79.4. 
+           This cluster may represent young customers who have low incomes but 
+           are willing to spend a lot.
+
+Cluster 4: Customers in this cluster have an average age of 32.7, 
+           an average income of 86.5, and an average spending score of 82.1. 
+           This cluster may represent young to middle-aged customers who have 
+           high incomes and are willing to spend a lot.
+
+
+So my suggest is 
+for customers in Cluster 0, a marketer can promote high-quality, 
+expensive products, while for customers in Cluster 2, a marketer can offer 
+discounts or deals to attract them towards their products.
+customers in Cluster 3 may be more interested in promotions 
+and discounts, while customers in Cluster 4 may be more interested in 
+high-end products and personalized services.
